@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fundamental positions and queries thereupon, concerning the faith, law, and church of Christ to be consider'd as highly conducing to publick peace, unity, and happiness.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40731</idno>
+            <idno type="STC">Wing F2529A</idno>
+            <idno type="STC">ESTC R11372</idno>
+            <idno type="EEBO-CITATION">13791531</idno>
+            <idno type="OCLC">ocm 13791531</idno>
+            <idno type="VID">101851</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40731)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101851)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 454:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fundamental positions and queries thereupon, concerning the faith, law, and church of Christ to be consider'd as highly conducing to publick peace, unity, and happiness.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>168-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Probable place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Doctrines.</term>
+               <term>Schism --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101851:1"/>
+            <pb n="1" facs="tcp:101851:1"/>
+            <head>FUNDAMENTAL POSITIONS AND QUERIES Thereupon, Concerning the FAITH, LAW, AND CHURCH of CHRIST; To be Conſider'd, as highly conducing to pub<g ref="char:EOLhyphen"/>lick Peace, Unity and Happineſs.</head>
+            <p n="1">1. <hi>CHRIST</hi> our Lord, reveal'd and reſtabliſh'd a <hi>Faith,</hi> and <hi>Law,</hi> as the Univerſal and neceſſary [<note n="a" place="margin">Mark 16. 16 Heb. 11. <hi>v.</hi> 6.</note>] Means for the Ap<g ref="char:EOLhyphen"/>plication of his Blood and Paſſion to Mankind.</p>
+            <p n="2">II. A Belief and Profeſſion of this <hi>Faith</hi> and <hi>Law,</hi> ought (at leaſt regarding the Body of <hi>Chriſtianity</hi> in General) to be Conform, and Adequate to [<note n="b" place="margin">Matt. 28. 20.</note>] all the Truths or My<g ref="char:EOLhyphen"/>ſteries ſo Reveal'd.</p>
+            <p n="3">III. Hence this <hi>Faith</hi> and <hi>Law,</hi> is [<note n="c" place="margin">Epheſ. 4. <hi>v</hi> 4.</note> One, and the ſame amongſt all <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> of what different Nation, and under what diſtinct Temporal Govern<g ref="char:EOLhyphen"/>ment ſoever they be. The Univerſality of which <hi>Chriſtians</hi> thus Combin'd, and Incorporated in one <hi>Faith</hi> and <hi>Law,</hi> is that which we term the [<note n="d" place="margin">Tim. 3. <hi>v.</hi> 15. Matt. 16. 18.</note>] <hi>Ca<g ref="char:EOLhyphen"/>tholick Church:</hi> And as this <hi>Faith</hi> and <hi>Law</hi> is One; ſo is the [<note n="e" place="margin">Joh. 10. <hi>v</hi> 16.</note>] <hi>Catholick Church</hi> One.</p>
+            <p n="4">IV. This One <hi>Faith</hi> and <hi>Law</hi> thus neceſſary to the Salvation of all, con<g ref="char:EOLhyphen"/>taining in it many Sublime and Supernatural Myſteries, or Truths, was deliver'd by Chriſt the <hi>Law-giver</hi> to the <hi>Apoſtles;</hi> who as his Vice-gerents on Earth, were [<note n="f" place="margin">Matt. 28. 16. Luk. 10. <hi>v</hi> 16.</note>] Authoriz'd and Commiſſion'd by Him to Teach others, with a Promiſe of Divine Aſſiſtance, [<note n="g" place="margin">Joh. 14. <hi>v.</hi> 16.</note>] leaſt they might miſlead their Fol<g ref="char:EOLhyphen"/>lowers into Errour; either by Subſtraction from, or Addition to theſe necſſary Myſteries or Truths.</p>
+            <p n="5">V. Accordingly this <hi>Faith</hi> and <hi>Law</hi> was [<note n="h" place="margin">2 Tim. 2. <hi>v.</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2 Theſſ. 2. 15.</note>] Tranſmitted by the <hi>Apoſtles</hi> to their Succeſſors, and by Them in like manner to others the Succeſſive <hi>Biſhops</hi> and <hi>Paſtors</hi> of the <hi>Catholick Church.</hi> And as the neceſſity of <hi>Faith</hi> in its Unity and [<note n="i" place="margin">Epheſ. 5. <hi>v.</hi> 5.</note>] Integrity is always the ſame; ſo is the Authority to each, and Divine Aſſiſtance not to miſguide proportionably the ſame.</p>
+            <p n="6">VI. Wherefore, As the <hi>Apoſtles</hi> (gather'd together in the Holy Ghoſt,) Exercis'd their Authority in determining [<note n="k" place="margin">Acts 15.</note>] Controverſies of <hi>Faith,</hi> and re<g ref="char:EOLhyphen"/>quiring [<note n="l" place="margin">Matt. 18. 17.</note>] a Submiſſion of Judgement from others to their Deciſions, in their time: So alſo the following <hi>Paſtors,</hi> and Governours of the <hi>Catholick Church</hi> aſſembled in a General Council, and inſpir'd by the ſame Holy Ghoſt, exercis'd the like Authority in deſiding the like Controverſies, diſtinguiſhing Goſpel-Truths from Errour, and requiring the like ſub<g ref="char:EOLhyphen"/>miſſion of Judgement from Believers, as occaſion was offer'd in all enſu<g ref="char:EOLhyphen"/>ing Ages.</p>
+            <div type="part">
+               <pb n="2" facs="tcp:101851:2" rendition="simple:additions"/>
+               <head>Q<g ref="char:V">Ʋ</g>ERIES.</head>
+               <p n="1">I. WHether a Separation at any time whatſoever, and on what Pre<g ref="char:EOLhyphen"/>tence ſoever, made by any Part or Member of the whole Church, from the known <hi>Faith</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nity</hi> of the ſame Church, be not oppoſite and deſtructive to the Fundamental Grounds of Religion eſta<g ref="char:EOLhyphen"/>bliſh'd by <hi>Chriſt?</hi>
+               </p>
+               <p n="2">II. Whether the Church of <hi>England</hi> before the <hi>Reformation</hi> was not a Part, or Member Subordinate to the whole? And whether by its Sepa<g ref="char:EOLhyphen"/>rating in <hi>Faith</hi> and <hi>Communion</hi> from the <hi>Roman</hi> Church, it did not alſo Separate from the whole then Extant and Viſible Church? If it did; Whether ſuch Separation be Juſtifiable? If it did not; Where was the ever Divinely Authoriz'd and Aſſiſted <hi>Catholick Church</hi> from the Viſible Communion of which the <hi>Roman</hi> Church had Seperated, and to which the Church of <hi>England,</hi> deſerting the <hi>Roman,</hi> did Adjoyn and Unite her ſelf in <hi>Faith, Sacraments,</hi> and Subordination of Government?</p>
+               <p n="3">III. Whether the Church of <hi>England</hi> at the time of the <hi>Reformation,</hi> aſſuming the liberty of Judging, and Determining Controverted Points of <hi>Faith</hi> by the Rule of Scripture, Interpreted by her ſelf independently on, and with disjunction from the Judgement of all and every other, at leaſt then extant Church or Churches, as her Book of <hi>Homilies</hi> ſeems to declare: Did not by this aſſum'd Liberty, Authorize and Warrant each particular Part, or even Member of her own Communion, to paſs the like Judge<g ref="char:EOLhyphen"/>ment, by the ſame Rule Independently on, and with disjunction from her reſpective Tenets in <hi>Faith</hi> and <hi>Doctrine.</hi> Furthermore, Whether ſuch a Liberty be not repugnant to the Unity of <hi>Faith</hi> eſtabliſh'd by Chriſt? Whether the Confuſions and Diſorders infeſting the Nation for above theſe Forty years, have not in great meaſure ſprung from this Root or Prin<g ref="char:EOLhyphen"/>ciple? And whether it doth not lay open a direct and unavoidable way or paſſage, to all manner of <hi>Schiſms</hi> and <hi>Hereſies?</hi>
+               </p>
+               <p n="4">IV. Whether private Self-Interpretation of Scripture, in contempt of the Churches Authority, hath not already brought many (and in all likelihood will daily bring more) of the moſt weighty Articles of the <hi>Chri<g ref="char:EOLhyphen"/>ſtian Religion</hi> into Queſtion and Debate? And this by an endleſs Labyrinth of Conteſt, without hopes of Redreſs? And whether the ſame Church-Authority, once neglected, the Canon of Scripture it ſelf, as to its being Gods Word, may not be Controverted; And finally the whole Syſteme of <hi>Faith</hi> by degrees, periſh?</p>
+               <p n="5">V. Whether the Church of <hi>England</hi> having upon Self-Abſtract-Noti<g ref="char:EOLhyphen"/>ons and Allegations of Gods Word, made a Rupture in the Unity of <hi>Faith,</hi> and Subordination of Government from the Church, of which it was for<g ref="char:EOLhyphen"/>merly a Member, doth not unduly exact from her Fellow Members ei<g ref="char:EOLhyphen"/>ther an Intern or (conſequently) an Extern Obedience, and Conformity to her own proper Doctrine and Worſhip? And whether Juſtice, Pru<g ref="char:EOLhyphen"/>dence, and common Intereſt do not require, either that the Church of <hi>England</hi> return to the Unity and Obedience of the Church, from whence (by open Contradiction) ſhe hath departed; or that ſhe al<g ref="char:EOLhyphen"/>low all other Sects, or Aſſemblies; yea, even individual Perſons, in their own Judgements of ſober Underſtanding, Diſſenting from her, the free Exerciſe of their Religion, according to their ſeveral, though oppoſite Sentiments and <hi>Dictamen</hi> of Conſcience, as to <hi>Faith</hi> and Worſhip in Expounding God's Word.</p>
+               <p>
+                  <hi>Laſtly,</hi> Whether the Impoſing of <hi>Oaths, Tests, Sacraments, Rites, Liturgies, Ceremonies,</hi> &amp;c. by the Church of <hi>England</hi> upon Perſons to whom ſuch Matters do not appear plain and clear in Scripture, be not con<g ref="char:EOLhyphen"/>trary to the Spirit and <hi>Genius</hi> of the <hi>Reformation:</hi> And whether ſuch Impoſitions, and Entanglements under ſevere Temporal Penalties, may not be properly term'd a Perſecution.</p>
+               <closer>God Save the KING.</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
